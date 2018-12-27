@@ -1,5 +1,7 @@
-#include <stdio.h>
+#include<stdio.h>
 
-int main(void){
-return 0
+int main()
+{
+	printf("This program print report card.\n");
+	return 0;
 }
